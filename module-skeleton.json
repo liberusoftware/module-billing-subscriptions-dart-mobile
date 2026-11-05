@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-subscriptions-dart-mobile",
+  "capabilityKey": "liberusoftware/module-billing-subscriptions",
+  "presentation": "dart-mobile",
+  "package": "module_billing_subscriptions_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/billing/nextjs/subscriptions.md",
+  "presentationPlan": "projects/billing/features/subscriptions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
